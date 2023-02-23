@@ -27,6 +27,8 @@
 		49AC1F3C283634BA0068D54D /* algorithmpractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithmpractice; sourceTree = BUILT_PRODUCTS_DIR; };
 		49AC1F48283636020068D54D /* 이미푼문제.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "이미푼문제.swift"; sourceTree = "<group>"; };
 		49AC1F4A283636480068D54D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		49CD9B7729A6438900C992AE /* 음료수 얼려먹기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "음료수 얼려먹기.swift"; sourceTree = "<group>"; };
+		49CD9B7929A643A800C992AE /* 미로탈출.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "미로탈출.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +45,8 @@
 		492CF71B299780DE002D47FC /* 이코테 */ = {
 			isa = PBXGroup;
 			children = (
-				492CF71C29978126002D47FC /* 게임개발.swift */,
+				49CD9B7629A6437100C992AE /* 구현 */,
+				49CD9B7429A642B300C992AE /* BFS+DFS */,
 			);
 			name = "이코테";
 			path = "이코테";
@@ -89,6 +92,24 @@
 				49AC1F4A283636480068D54D /* main.swift */,
 			);
 			path = BOJ;
+			sourceTree = "<group>";
+		};
+		49CD9B7429A642B300C992AE /* BFS+DFS */ = {
+			isa = PBXGroup;
+			children = (
+				49CD9B7729A6438900C992AE /* 음료수 얼려먹기.swift */,
+				49CD9B7929A643A800C992AE /* 미로탈출.swift */,
+			);
+			path = "BFS+DFS";
+			sourceTree = "<group>";
+		};
+		49CD9B7629A6437100C992AE /* 구현 */ = {
+			isa = PBXGroup;
+			children = (
+				492CF71C29978126002D47FC /* 게임개발.swift */,
+			);
+			name = "구현";
+			path = "구현";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
