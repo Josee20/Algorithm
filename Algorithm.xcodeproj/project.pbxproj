@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		494B86062D61FA59003EF612 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494B86052D61FA59003EF612 /* main.swift */; };
 		49A7D0F62D742CD900AD6A0F /* 후보키.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7D0F52D742CD900AD6A0F /* 후보키.swift */; };
+		49A7D0F82D7DD19900AD6A0F /* 60_Permutation Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7D0F72D7DD19900AD6A0F /* 60_Permutation Sequence.swift */; };
 		49ACD5662D6F431A00505A81 /* 77_Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ACD5652D6F431A00505A81 /* 77_Combinations.swift */; };
 		49ACD5682D6F43AB00505A81 /* 78_Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ACD5672D6F43AB00505A81 /* 78_Subsets.swift */; };
 		49ACD56A2D6F43FA00505A81 /* 46_Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ACD5692D6F43FA00505A81 /* 46_Permutations.swift */; };
@@ -31,6 +32,7 @@
 		494B86022D61FA59003EF612 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		494B86052D61FA59003EF612 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		49A7D0F52D742CD900AD6A0F /* 후보키.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "후보키.swift"; sourceTree = "<group>"; };
+		49A7D0F72D7DD19900AD6A0F /* 60_Permutation Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "60_Permutation Sequence.swift"; sourceTree = "<group>"; };
 		49ACD5652D6F431A00505A81 /* 77_Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 77_Combinations.swift; sourceTree = "<group>"; };
 		49ACD5672D6F43AB00505A81 /* 78_Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 78_Subsets.swift; sourceTree = "<group>"; };
 		49ACD5692D6F43FA00505A81 /* 46_Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 46_Permutations.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				49ACD5652D6F431A00505A81 /* 77_Combinations.swift */,
 				49ACD5672D6F43AB00505A81 /* 78_Subsets.swift */,
 				49ACD5692D6F43FA00505A81 /* 46_Permutations.swift */,
+				49A7D0F72D7DD19900AD6A0F /* 60_Permutation Sequence.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				49ACD56A2D6F43FA00505A81 /* 46_Permutations.swift in Sources */,
 				49FC7BED2D6F40F2003A3376 /* 704_BinarySearch.swift in Sources */,
 				49A7D0F62D742CD900AD6A0F /* 후보키.swift in Sources */,
+				49A7D0F82D7DD19900AD6A0F /* 60_Permutation Sequence.swift in Sources */,
 				49ACD5682D6F43AB00505A81 /* 78_Subsets.swift in Sources */,
 				494B86062D61FA59003EF612 /* main.swift in Sources */,
 			);
