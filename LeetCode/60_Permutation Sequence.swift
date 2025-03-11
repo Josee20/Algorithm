@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class PermutationSequence {
     func getPermutation(_ n: Int, _ k: Int) -> String {
         var answer = ""
         var numbers = Array(1...n)
