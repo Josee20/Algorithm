@@ -7,6 +7,7 @@
 
 import Foundation
 
+// 첫번째 풀이
 class N_Queens {
     func solveNQueens(_ n: Int) -> [[String]] {
         var answer: [[String]] = []
@@ -40,6 +41,53 @@ class N_Queens {
                 board[row][column] = "."
             }
         }
+    }
+}
+
+// 두 번째 풀이
+class N_Queens2 {
+    func solveNQueens(_ n: Int) -> [[String]] {
+        var answer: [[String]] = []
+        var board: [[String]] = Array(repeating: Array(repeating: ".", count: n), count: n)
+        bt(0, &board, &answer)
+        return answer
+    }
+
+    func bt(_ row: Int, _ board: inout [[String]], _ answer: inout [[String]]) {
+        let n = board.count
+
+        if row == n {
+            answer.append(board.map { $0.joined() })
+            return
+        }
+
+        for col in 0..<n {
+            if board[row][col] == "." && isValid(row, col, &board) {
+                board[row][col] = "Q"
+                bt(row + 1, &board, &answer)
+                board[row][col] = "."
+            }
+        }
+    }
+    
+    func isValid(_ row: Int, _ col: Int, _ board: inout [[String]]) -> Bool {
+        let n = board.count
+        
+        for i in 0..<n {
+            if board[i][col] == "Q" {
+                return false
+            }
+            
+            for j in 0..<n {
+                if i + j == row + col || i - j == row - col {
+                    if board[i][j] == "Q" {
+                        return false
+                    }
+                }
+            }
+        }
+        
+        return true
     }
 }
 
