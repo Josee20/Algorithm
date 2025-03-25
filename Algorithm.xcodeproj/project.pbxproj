@@ -16,6 +16,7 @@
 		49ACD5682D6F43AB00505A81 /* 78_Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ACD5672D6F43AB00505A81 /* 78_Subsets.swift */; };
 		49ACD56A2D6F43FA00505A81 /* 46_Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ACD5692D6F43FA00505A81 /* 46_Permutations.swift */; };
 		49D381E82D919A6A003D6A5F /* 20_ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E72D919A6A003D6A5F /* 20_ValidParentheses.swift */; };
+		49D381EA2D9304B7003D6A5F /* 739_Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E92D9304B7003D6A5F /* 739_Daily Temperatures.swift */; };
 		49ECA0422D902E32001CADFA /* 자물쇠와 열쇠.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ECA0412D902E32001CADFA /* 자물쇠와 열쇠.swift */; };
 		49F7477D2D80724F00E90CF9 /* 131_PalindromePartioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F7477C2D80724F00E90CF9 /* 131_PalindromePartioning.swift */; };
 		49FC7BED2D6F40F2003A3376 /* 704_BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FC7BEC2D6F40F2003A3376 /* 704_BinarySearch.swift */; };
@@ -44,6 +45,7 @@
 		49ACD5672D6F43AB00505A81 /* 78_Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 78_Subsets.swift; sourceTree = "<group>"; };
 		49ACD5692D6F43FA00505A81 /* 46_Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 46_Permutations.swift; sourceTree = "<group>"; };
 		49D381E72D919A6A003D6A5F /* 20_ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20_ValidParentheses.swift; sourceTree = "<group>"; };
+		49D381E92D9304B7003D6A5F /* 739_Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739_Daily Temperatures.swift"; sourceTree = "<group>"; };
 		49ECA0412D902E32001CADFA /* 자물쇠와 열쇠.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자물쇠와 열쇠.swift"; sourceTree = "<group>"; };
 		49F7477C2D80724F00E90CF9 /* 131_PalindromePartioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 131_PalindromePartioning.swift; sourceTree = "<group>"; };
 		49FC7BEC2D6F40F2003A3376 /* 704_BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 704_BinarySearch.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				493900942D86F16D004F78D7 /* 37_SudokuSolver.swift */,
 				493900962D887747004F78D7 /* 51_N-Queens.swift */,
 				49D381E72D919A6A003D6A5F /* 20_ValidParentheses.swift */,
+				49D381E92D9304B7003D6A5F /* 739_Daily Temperatures.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 				49FC7BED2D6F40F2003A3376 /* 704_BinarySearch.swift in Sources */,
 				49F7477D2D80724F00E90CF9 /* 131_PalindromePartioning.swift in Sources */,
 				493900972D887747004F78D7 /* 51_N-Queens.swift in Sources */,
+				49D381EA2D9304B7003D6A5F /* 739_Daily Temperatures.swift in Sources */,
 				49A7D0F62D742CD900AD6A0F /* 후보키.swift in Sources */,
 				49A7D0F82D7DD19900AD6A0F /* 60_Permutation Sequence.swift in Sources */,
 				49ACD5682D6F43AB00505A81 /* 78_Subsets.swift in Sources */,
