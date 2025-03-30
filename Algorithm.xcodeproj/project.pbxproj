@@ -11,6 +11,7 @@
 		493900972D887747004F78D7 /* 51. N-Queens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493900962D887747004F78D7 /* 51. N-Queens.swift */; };
 		494B86062D61FA59003EF612 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494B86052D61FA59003EF612 /* main.swift */; };
 		4972DDC22D965D7500D79419 /* 두 큐 합 같게 만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4972DDC12D965D7500D79419 /* 두 큐 합 같게 만들기.swift */; };
+		4972DDC42D98F85B00D79419 /* 42. Trapping Rain Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4972DDC32D98F85B00D79419 /* 42. Trapping Rain Water.swift */; };
 		49A7D0F62D742CD900AD6A0F /* 후보키.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7D0F52D742CD900AD6A0F /* 후보키.swift */; };
 		49A7D0F82D7DD19900AD6A0F /* 60. Permutation Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7D0F72D7DD19900AD6A0F /* 60. Permutation Sequence.swift */; };
 		49ACD5662D6F431A00505A81 /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ACD5652D6F431A00505A81 /* 77. Combinations.swift */; };
@@ -42,6 +43,7 @@
 		494B86022D61FA59003EF612 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		494B86052D61FA59003EF612 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4972DDC12D965D7500D79419 /* 두 큐 합 같게 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두 큐 합 같게 만들기.swift"; sourceTree = "<group>"; };
+		4972DDC32D98F85B00D79419 /* 42. Trapping Rain Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42. Trapping Rain Water.swift"; sourceTree = "<group>"; };
 		49A7D0F52D742CD900AD6A0F /* 후보키.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "후보키.swift"; sourceTree = "<group>"; };
 		49A7D0F72D7DD19900AD6A0F /* 60. Permutation Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "60. Permutation Sequence.swift"; sourceTree = "<group>"; };
 		49ACD5652D6F431A00505A81 /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */,
 				49D381E92D9304B7003D6A5F /* 739. Daily Temperatures.swift */,
 				49D381EB2D94333C003D6A5F /* 841. Keys and Rooms.swift */,
+				4972DDC32D98F85B00D79419 /* 42. Trapping Rain Water.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				49A7D0F62D742CD900AD6A0F /* 후보키.swift in Sources */,
 				49A7D0F82D7DD19900AD6A0F /* 60. Permutation Sequence.swift in Sources */,
 				49ACD5682D6F43AB00505A81 /* 78. Subsets.swift in Sources */,
+				4972DDC42D98F85B00D79419 /* 42. Trapping Rain Water.swift in Sources */,
 				494B86062D61FA59003EF612 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
