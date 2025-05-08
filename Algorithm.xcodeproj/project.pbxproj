@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		490E9B012DCCEC3F000DED85 /* 62. Unique Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490E9B002DCCEC3F000DED85 /* 62. Unique Paths.swift */; };
 		493900952D86F16D004F78D7 /* 37. Sudoku Solver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493900942D86F16D004F78D7 /* 37. Sudoku Solver.swift */; };
 		493900972D887747004F78D7 /* 51. N-Queens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493900962D887747004F78D7 /* 51. N-Queens.swift */; };
 		494B86062D61FA59003EF612 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494B86052D61FA59003EF612 /* main.swift */; };
@@ -14,6 +15,7 @@
 		4972DDC42D98F85B00D79419 /* 42. Trapping Rain Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4972DDC32D98F85B00D79419 /* 42. Trapping Rain Water.swift */; };
 		497D8CC02DB6866100FC9942 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 497D8CBF2DB6866100FC9942 /* LinkedList.swift */; };
 		498E18BA2DC72A08007066B5 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498E18B92DC72A08007066B5 /* 70. Climbing Stairs.swift */; };
+		498E18BD2DC734C1007066B5 /* 764. Min Cost Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498E18BC2DC734C1007066B5 /* 764. Min Cost Climbing Stairs.swift */; };
 		49A7D0F62D742CD900AD6A0F /* 후보키.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7D0F52D742CD900AD6A0F /* 후보키.swift */; };
 		49A7D0F82D7DD19900AD6A0F /* 60. Permutation Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7D0F72D7DD19900AD6A0F /* 60. Permutation Sequence.swift */; };
 		49ACD5662D6F431A00505A81 /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ACD5652D6F431A00505A81 /* 77. Combinations.swift */; };
@@ -40,6 +42,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		490E9B002DCCEC3F000DED85 /* 62. Unique Paths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62. Unique Paths.swift"; sourceTree = "<group>"; };
 		493900942D86F16D004F78D7 /* 37. Sudoku Solver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "37. Sudoku Solver.swift"; sourceTree = "<group>"; };
 		493900962D887747004F78D7 /* 51. N-Queens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "51. N-Queens.swift"; sourceTree = "<group>"; };
 		494B86022D61FA59003EF612 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -48,6 +51,7 @@
 		4972DDC32D98F85B00D79419 /* 42. Trapping Rain Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42. Trapping Rain Water.swift"; sourceTree = "<group>"; };
 		497D8CBF2DB6866100FC9942 /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
 		498E18B92DC72A08007066B5 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
+		498E18BC2DC734C1007066B5 /* 764. Min Cost Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "764. Min Cost Climbing Stairs.swift"; sourceTree = "<group>"; };
 		49A7D0F52D742CD900AD6A0F /* 후보키.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "후보키.swift"; sourceTree = "<group>"; };
 		49A7D0F72D7DD19900AD6A0F /* 60. Permutation Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "60. Permutation Sequence.swift"; sourceTree = "<group>"; };
 		49ACD5652D6F431A00505A81 /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
@@ -123,6 +127,8 @@
 				49D381EB2D94333C003D6A5F /* 841. Keys and Rooms.swift */,
 				4972DDC32D98F85B00D79419 /* 42. Trapping Rain Water.swift */,
 				498E18B92DC72A08007066B5 /* 70. Climbing Stairs.swift */,
+				498E18BC2DC734C1007066B5 /* 764. Min Cost Climbing Stairs.swift */,
+				490E9B002DCCEC3F000DED85 /* 62. Unique Paths.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -201,6 +207,8 @@
 				49ECA0422D902E32001CADFA /* 자물쇠와 열쇠.swift in Sources */,
 				49D381EC2D94333C003D6A5F /* 841. Keys and Rooms.swift in Sources */,
 				49ACD56A2D6F43FA00505A81 /* 46. Permutations.swift in Sources */,
+				490E9B012DCCEC3F000DED85 /* 62. Unique Paths.swift in Sources */,
+				498E18BD2DC734C1007066B5 /* 764. Min Cost Climbing Stairs.swift in Sources */,
 				49D381E82D919A6A003D6A5F /* 20. Valid Parentheses.swift in Sources */,
 				493900952D86F16D004F78D7 /* 37. Sudoku Solver.swift in Sources */,
 				49FC7BED2D6F40F2003A3376 /* 704. Binary Search.swift in Sources */,
