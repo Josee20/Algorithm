@@ -8,7 +8,6 @@
 import Foundation
 
 func 평범한_배낭() {
-    
     struct Item {
         var weight: Int
         var value: Int
@@ -37,6 +36,43 @@ func 평범한_배낭() {
     }
 
     print(dp[n][k])
+}
+
+func 평범한_배낭2() {
+    struct Item {
+        var weight: Int
+        var value: Int
+    }
+    
+    let input = readLine()!.split(separator: " ").map { Int($0)! }
+    let n = input[0]
+    let k = input[1]
+
+    var items: [Item] = []
+    var memo: [[Int]] = Array(repeating: Array(repeating: -1, count: k + 1), count: n + 1)
+
+    for _ in 0..<n {
+        let input = readLine()!.split(separator: " ").map { Int($0)! }
+        items.append(Item(weight: input[0], value: input[1]))
+    }
+    
+    func knapsack(_ i: Int, _ weight: Int) -> Int {
+        if i == n { return 0 }
+        if memo[i][weight] != -1 { return memo[i][weight] }
+        
+        let item = items[i]
+        
+        var result = knapsack(i + 1, weight)
+        
+        if weight + item.weight <= k {
+            result = max(result, knapsack(i + 1, weight + item.weight) + item.value)
+        }
+        
+        memo[i][weight] = result
+        return memo[i][weight]
+    }
+    
+    print(knapsack(0, 0))
 }
 
 /* Test case

@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		490E9B012DCCEC3F000DED85 /* 62. Unique Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490E9B002DCCEC3F000DED85 /* 62. Unique Paths.swift */; };
 		490E9B052DCE62FA000DED85 /* 12865. 평범한 배낭.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490E9B042DCE62FA000DED85 /* 12865. 평범한 배낭.swift */; };
+		492723CD2DDCB73F004B69AE /* 785. Is Graph Bipartite?.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492723CC2DDCB73F004B69AE /* 785. Is Graph Bipartite?.swift */; };
 		493900952D86F16D004F78D7 /* 37. Sudoku Solver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493900942D86F16D004F78D7 /* 37. Sudoku Solver.swift */; };
 		493900972D887747004F78D7 /* 51. N-Queens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493900962D887747004F78D7 /* 51. N-Queens.swift */; };
 		494B86062D61FA59003EF612 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 494B86052D61FA59003EF612 /* main.swift */; };
@@ -25,6 +26,7 @@
 		49D381E82D919A6A003D6A5F /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */; };
 		49D381EA2D9304B7003D6A5F /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E92D9304B7003D6A5F /* 739. Daily Temperatures.swift */; };
 		49D381EC2D94333C003D6A5F /* 841. Keys and Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381EB2D94333C003D6A5F /* 841. Keys and Rooms.swift */; };
+		49E992512DE4AF8500207C56 /* 무인도 여행.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E992502DE4AF8500207C56 /* 무인도 여행.swift */; };
 		49ECA0422D902E32001CADFA /* 자물쇠와 열쇠.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ECA0412D902E32001CADFA /* 자물쇠와 열쇠.swift */; };
 		49F7477D2D80724F00E90CF9 /* 131. Palindrome Partioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F7477C2D80724F00E90CF9 /* 131. Palindrome Partioning.swift */; };
 		49FC7BED2D6F40F2003A3376 /* 704. Binary Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FC7BEC2D6F40F2003A3376 /* 704. Binary Search.swift */; };
@@ -45,6 +47,7 @@
 /* Begin PBXFileReference section */
 		490E9B002DCCEC3F000DED85 /* 62. Unique Paths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62. Unique Paths.swift"; sourceTree = "<group>"; };
 		490E9B042DCE62FA000DED85 /* 12865. 평범한 배낭.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12865. 평범한 배낭.swift"; sourceTree = "<group>"; };
+		492723CC2DDCB73F004B69AE /* 785. Is Graph Bipartite?.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "785. Is Graph Bipartite?.swift"; sourceTree = "<group>"; };
 		493900942D86F16D004F78D7 /* 37. Sudoku Solver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "37. Sudoku Solver.swift"; sourceTree = "<group>"; };
 		493900962D887747004F78D7 /* 51. N-Queens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "51. N-Queens.swift"; sourceTree = "<group>"; };
 		494B86022D61FA59003EF612 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,6 +65,7 @@
 		49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
 		49D381E92D9304B7003D6A5F /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		49D381EB2D94333C003D6A5F /* 841. Keys and Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "841. Keys and Rooms.swift"; sourceTree = "<group>"; };
+		49E992502DE4AF8500207C56 /* 무인도 여행.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "무인도 여행.swift"; sourceTree = "<group>"; };
 		49ECA0412D902E32001CADFA /* 자물쇠와 열쇠.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자물쇠와 열쇠.swift"; sourceTree = "<group>"; };
 		49F7477C2D80724F00E90CF9 /* 131. Palindrome Partioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "131. Palindrome Partioning.swift"; sourceTree = "<group>"; };
 		49FC7BEC2D6F40F2003A3376 /* 704. Binary Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "704. Binary Search.swift"; sourceTree = "<group>"; };
@@ -140,6 +144,7 @@
 				498E18B92DC72A08007066B5 /* 70. Climbing Stairs.swift */,
 				498E18BC2DC734C1007066B5 /* 764. Min Cost Climbing Stairs.swift */,
 				490E9B002DCCEC3F000DED85 /* 62. Unique Paths.swift */,
+				492723CC2DDCB73F004B69AE /* 785. Is Graph Bipartite?.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -150,6 +155,7 @@
 				49A7D0F52D742CD900AD6A0F /* 후보키.swift */,
 				49ECA0412D902E32001CADFA /* 자물쇠와 열쇠.swift */,
 				4972DDC12D965D7500D79419 /* 두 큐 합 같게 만들기.swift */,
+				49E992502DE4AF8500207C56 /* 무인도 여행.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -232,7 +238,9 @@
 				49ACD5682D6F43AB00505A81 /* 78. Subsets.swift in Sources */,
 				4972DDC42D98F85B00D79419 /* 42. Trapping Rain Water.swift in Sources */,
 				497D8CC02DB6866100FC9942 /* LinkedList.swift in Sources */,
+				492723CD2DDCB73F004B69AE /* 785. Is Graph Bipartite?.swift in Sources */,
 				494B86062D61FA59003EF612 /* main.swift in Sources */,
+				49E992512DE4AF8500207C56 /* 무인도 여행.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
