@@ -94,7 +94,6 @@ class 무인도여행 {
             }
         }
         
-        
         return result.isEmpty ? [-1] : result.sorted()
     }
     
