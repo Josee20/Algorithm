@@ -8,6 +8,8 @@
 import Foundation
 
 class CoinChange {
+    
+    // Bottom-Up
     func coinChange(_ coins: [Int], _ amount: Int) -> Int {
         if amount == 0 { return 0 }
         
@@ -25,11 +27,33 @@ class CoinChange {
         
         return dp[amount] == maxValue ? -1 : dp[amount]
     }
+    
+    // BFS
+    func coinChange2(_ coins: [Int], _ amount: Int) -> Int {
+        if amount == 0 { return 0 }
+        
+        var visited = Set<Int>()
+        var queue: [(amount: Int, count: Int)] = []
+        queue.append((0, 0))
+        visited.insert(0)
+        
+        while !queue.isEmpty {
+            let (currentAmount, coinCount) = queue.removeFirst()
+            
+            for coin in coins {
+                let nextAmount = currentAmount + coin
+                
+                if nextAmount == amount {
+                    return coinCount + 1
+                }
+                
+                if nextAmount < amount && !visited.contains(nextAmount) {
+                    queue.append((nextAmount, coinCount + 1))
+                    visited.insert(nextAmount)
+                }
+            }
+        }
+        
+        return -1
+    }
 }
-
-/* Testcase
- let sol = CoinChange()
- print(sol.coinChange([1, 2, 5], 11)) -> 3
- print(sol.coinChange([2], 3)) -> -1
- print(sol.coinChange([1], 0)) -> 0
- */

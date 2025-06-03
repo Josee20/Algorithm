@@ -24,6 +24,7 @@
 		49ACD5682D6F43AB00505A81 /* 78. Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ACD5672D6F43AB00505A81 /* 78. Subsets.swift */; };
 		49ACD56A2D6F43FA00505A81 /* 46. Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ACD5692D6F43FA00505A81 /* 46. Permutations.swift */; };
 		49B41A1E2DE74D480019CCE4 /* 322. Coin Change.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B41A1D2DE74D480019CCE4 /* 322. Coin Change.swift */; };
+		49D258D12DEF14FB00F3606E /* 양과늑대.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D258D02DEF14FB00F3606E /* 양과늑대.swift */; };
 		49D381E82D919A6A003D6A5F /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */; };
 		49D381EA2D9304B7003D6A5F /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E92D9304B7003D6A5F /* 739. Daily Temperatures.swift */; };
 		49D381EC2D94333C003D6A5F /* 841. Keys and Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381EB2D94333C003D6A5F /* 841. Keys and Rooms.swift */; };
@@ -64,6 +65,7 @@
 		49ACD5672D6F43AB00505A81 /* 78. Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "78. Subsets.swift"; sourceTree = "<group>"; };
 		49ACD5692D6F43FA00505A81 /* 46. Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46. Permutations.swift"; sourceTree = "<group>"; };
 		49B41A1D2DE74D480019CCE4 /* 322. Coin Change.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "322. Coin Change.swift"; sourceTree = "<group>"; };
+		49D258D02DEF14FB00F3606E /* 양과늑대.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "양과늑대.swift"; sourceTree = "<group>"; };
 		49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
 		49D381E92D9304B7003D6A5F /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		49D381EB2D94333C003D6A5F /* 841. Keys and Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "841. Keys and Rooms.swift"; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 				49ECA0412D902E32001CADFA /* 자물쇠와 열쇠.swift */,
 				4972DDC12D965D7500D79419 /* 두 큐 합 같게 만들기.swift */,
 				49E992502DE4AF8500207C56 /* 무인도 여행.swift */,
+				49D258D02DEF14FB00F3606E /* 양과늑대.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				493900952D86F16D004F78D7 /* 37. Sudoku Solver.swift in Sources */,
 				49FC7BED2D6F40F2003A3376 /* 704. Binary Search.swift in Sources */,
 				49F7477D2D80724F00E90CF9 /* 131. Palindrome Partioning.swift in Sources */,
+				49D258D12DEF14FB00F3606E /* 양과늑대.swift in Sources */,
 				493900972D887747004F78D7 /* 51. N-Queens.swift in Sources */,
 				49D381EA2D9304B7003D6A5F /* 739. Daily Temperatures.swift in Sources */,
 				49A7D0F62D742CD900AD6A0F /* 후보키.swift in Sources */,
