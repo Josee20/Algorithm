@@ -25,6 +25,7 @@
 		49ACD56A2D6F43FA00505A81 /* 46. Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ACD5692D6F43FA00505A81 /* 46. Permutations.swift */; };
 		49B41A1E2DE74D480019CCE4 /* 322. Coin Change.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B41A1D2DE74D480019CCE4 /* 322. Coin Change.swift */; };
 		49D258D12DEF14FB00F3606E /* 양과늑대.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D258D02DEF14FB00F3606E /* 양과늑대.swift */; };
+		49D258D32DF07C7200F3606E /* 32. Longest Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D258D22DF07C7200F3606E /* 32. Longest Valid Parentheses.swift */; };
 		49D381E82D919A6A003D6A5F /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */; };
 		49D381EA2D9304B7003D6A5F /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E92D9304B7003D6A5F /* 739. Daily Temperatures.swift */; };
 		49D381EC2D94333C003D6A5F /* 841. Keys and Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381EB2D94333C003D6A5F /* 841. Keys and Rooms.swift */; };
@@ -66,6 +67,7 @@
 		49ACD5692D6F43FA00505A81 /* 46. Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46. Permutations.swift"; sourceTree = "<group>"; };
 		49B41A1D2DE74D480019CCE4 /* 322. Coin Change.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "322. Coin Change.swift"; sourceTree = "<group>"; };
 		49D258D02DEF14FB00F3606E /* 양과늑대.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "양과늑대.swift"; sourceTree = "<group>"; };
+		49D258D22DF07C7200F3606E /* 32. Longest Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "32. Longest Valid Parentheses.swift"; sourceTree = "<group>"; };
 		49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
 		49D381E92D9304B7003D6A5F /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		49D381EB2D94333C003D6A5F /* 841. Keys and Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "841. Keys and Rooms.swift"; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 				490E9B002DCCEC3F000DED85 /* 62. Unique Paths.swift */,
 				492723CC2DDCB73F004B69AE /* 785. Is Graph Bipartite?.swift */,
 				49B41A1D2DE74D480019CCE4 /* 322. Coin Change.swift */,
+				49D258D22DF07C7200F3606E /* 32. Longest Valid Parentheses.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				498E18BA2DC72A08007066B5 /* 70. Climbing Stairs.swift in Sources */,
 				490E9B052DCE62FA000DED85 /* 12865. 평범한 배낭.swift in Sources */,
 				49ECA0422D902E32001CADFA /* 자물쇠와 열쇠.swift in Sources */,
+				49D258D32DF07C7200F3606E /* 32. Longest Valid Parentheses.swift in Sources */,
 				49D381EC2D94333C003D6A5F /* 841. Keys and Rooms.swift in Sources */,
 				49ACD56A2D6F43FA00505A81 /* 46. Permutations.swift in Sources */,
 				490E9B012DCCEC3F000DED85 /* 62. Unique Paths.swift in Sources */,

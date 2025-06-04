@@ -10,7 +10,3 @@ import Foundation
 class Solution {
     
 }
-
-
-
-
