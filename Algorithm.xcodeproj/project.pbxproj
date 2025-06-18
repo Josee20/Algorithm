@@ -34,6 +34,7 @@
 		49D97E252DF1DFFD00CC7F50 /* 200. Number Of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D97E242DF1DFFD00CC7F50 /* 200. Number Of Islands.swift */; };
 		49E992512DE4AF8500207C56 /* 무인도 여행.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E992502DE4AF8500207C56 /* 무인도 여행.swift */; };
 		49ECA0422D902E32001CADFA /* 자물쇠와 열쇠.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ECA0412D902E32001CADFA /* 자물쇠와 열쇠.swift */; };
+		49F051402E0307A400CE55F9 /* 17142. 연구소3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F0513F2E0307A400CE55F9 /* 17142. 연구소3.swift */; };
 		49F7477D2D80724F00E90CF9 /* 131. Palindrome Partioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F7477C2D80724F00E90CF9 /* 131. Palindrome Partioning.swift */; };
 		49FC7BED2D6F40F2003A3376 /* 704. Binary Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FC7BEC2D6F40F2003A3376 /* 704. Binary Search.swift */; };
 /* End PBXBuildFile section */
@@ -79,6 +80,7 @@
 		49D97E242DF1DFFD00CC7F50 /* 200. Number Of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. Number Of Islands.swift"; sourceTree = "<group>"; };
 		49E992502DE4AF8500207C56 /* 무인도 여행.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "무인도 여행.swift"; sourceTree = "<group>"; };
 		49ECA0412D902E32001CADFA /* 자물쇠와 열쇠.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자물쇠와 열쇠.swift"; sourceTree = "<group>"; };
+		49F0513F2E0307A400CE55F9 /* 17142. 연구소3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17142. 연구소3.swift"; sourceTree = "<group>"; };
 		49F7477C2D80724F00E90CF9 /* 131. Palindrome Partioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "131. Palindrome Partioning.swift"; sourceTree = "<group>"; };
 		49FC7BEC2D6F40F2003A3376 /* 704. Binary Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "704. Binary Search.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -99,6 +101,7 @@
 			children = (
 				490E9B042DCE62FA000DED85 /* 12865. 평범한 배낭.swift */,
 				49A402DF2DFB1E6900E3BA2E /* 14502. 연구소.swift */,
+				49F0513F2E0307A400CE55F9 /* 17142. 연구소3.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				49ACD5682D6F43AB00505A81 /* 78. Subsets.swift in Sources */,
 				4972DDC42D98F85B00D79419 /* 42. Trapping Rain Water.swift in Sources */,
 				497D8CC02DB6866100FC9942 /* LinkedList.swift in Sources */,
+				49F051402E0307A400CE55F9 /* 17142. 연구소3.swift in Sources */,
 				492723CD2DDCB73F004B69AE /* 785. Is Graph Bipartite?.swift in Sources */,
 				49B41A1E2DE74D480019CCE4 /* 322. Coin Change.swift in Sources */,
 				494B86062D61FA59003EF612 /* main.swift in Sources */,
