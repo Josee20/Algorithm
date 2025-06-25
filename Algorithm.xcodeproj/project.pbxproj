@@ -33,6 +33,7 @@
 		49D381EA2D9304B7003D6A5F /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E92D9304B7003D6A5F /* 739. Daily Temperatures.swift */; };
 		49D381EC2D94333C003D6A5F /* 841. Keys and Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381EB2D94333C003D6A5F /* 841. Keys and Rooms.swift */; };
 		49D97E252DF1DFFD00CC7F50 /* 200. Number Of Islands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D97E242DF1DFFD00CC7F50 /* 200. Number Of Islands.swift */; };
+		49E84D2B2E0C323F00E79922 /* 교점에 별 만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E84D2A2E0C323F00E79922 /* 교점에 별 만들기.swift */; };
 		49E992512DE4AF8500207C56 /* 무인도 여행.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E992502DE4AF8500207C56 /* 무인도 여행.swift */; };
 		49ECA0422D902E32001CADFA /* 자물쇠와 열쇠.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49ECA0412D902E32001CADFA /* 자물쇠와 열쇠.swift */; };
 		49F051402E0307A400CE55F9 /* 17142. 연구소3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F0513F2E0307A400CE55F9 /* 17142. 연구소3.swift */; };
@@ -81,6 +82,7 @@
 		49D381E92D9304B7003D6A5F /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		49D381EB2D94333C003D6A5F /* 841. Keys and Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "841. Keys and Rooms.swift"; sourceTree = "<group>"; };
 		49D97E242DF1DFFD00CC7F50 /* 200. Number Of Islands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "200. Number Of Islands.swift"; sourceTree = "<group>"; };
+		49E84D2A2E0C323F00E79922 /* 교점에 별 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "교점에 별 만들기.swift"; sourceTree = "<group>"; };
 		49E992502DE4AF8500207C56 /* 무인도 여행.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "무인도 여행.swift"; sourceTree = "<group>"; };
 		49ECA0412D902E32001CADFA /* 자물쇠와 열쇠.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자물쇠와 열쇠.swift"; sourceTree = "<group>"; };
 		49F0513F2E0307A400CE55F9 /* 17142. 연구소3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17142. 연구소3.swift"; sourceTree = "<group>"; };
@@ -183,6 +185,7 @@
 				49E992502DE4AF8500207C56 /* 무인도 여행.swift */,
 				492F03F12E098E8700AAE803 /* 타겟 넘버.swift */,
 				49D258D02DEF14FB00F3606E /* 양과늑대.swift */,
+				49E84D2A2E0C323F00E79922 /* 교점에 별 만들기.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				49D258D12DEF14FB00F3606E /* 양과늑대.swift in Sources */,
 				493900972D887747004F78D7 /* 51. N-Queens.swift in Sources */,
 				49D381EA2D9304B7003D6A5F /* 739. Daily Temperatures.swift in Sources */,
+				49E84D2B2E0C323F00E79922 /* 교점에 별 만들기.swift in Sources */,
 				49F051422E05B08500CE55F9 /* 13459. 구슬 탈출.swift in Sources */,
 				49A7D0F62D742CD900AD6A0F /* 후보키.swift in Sources */,
 				49A7D0F82D7DD19900AD6A0F /* 60. Permutation Sequence.swift in Sources */,
