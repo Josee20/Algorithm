@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		490235B22E437EFE006A2457 /* 3진법 뒤집기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490235B12E437EFE006A2457 /* 3진법 뒤집기.swift */; };
 		4903666C2DF7207F00AE2CCB /* 1091. Shortest Path in Binary Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4903666B2DF7207F00AE2CCB /* 1091. Shortest Path in Binary Matrix.swift */; };
 		490E9B012DCCEC3F000DED85 /* 62. Unique Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490E9B002DCCEC3F000DED85 /* 62. Unique Paths.swift */; };
 		490E9B052DCE62FA000DED85 /* 12865. 평범한 배낭.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490E9B042DCE62FA000DED85 /* 12865. 평범한 배낭.swift */; };
@@ -62,6 +63,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		490235B12E437EFE006A2457 /* 3진법 뒤집기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3진법 뒤집기.swift"; sourceTree = "<group>"; };
 		4903666B2DF7207F00AE2CCB /* 1091. Shortest Path in Binary Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1091. Shortest Path in Binary Matrix.swift"; sourceTree = "<group>"; };
 		490E9B002DCCEC3F000DED85 /* 62. Unique Paths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62. Unique Paths.swift"; sourceTree = "<group>"; };
 		490E9B042DCE62FA000DED85 /* 12865. 평범한 배낭.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12865. 평범한 배낭.swift"; sourceTree = "<group>"; };
@@ -207,6 +209,7 @@
 				495032DB2E3A6E3D008DE5E6 /* 시저 암호.swift */,
 				495032DD2E3B979C008DE5E6 /* 이상한 문자 만들기.swift */,
 				49C3A9222E42312800A1E697 /* 문자열 압축.swift */,
+				490235B12E437EFE006A2457 /* 3진법 뒤집기.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 				49A7D0F82D7DD19900AD6A0F /* 60. Permutation Sequence.swift in Sources */,
 				49ACD5682D6F43AB00505A81 /* 78. Subsets.swift in Sources */,
 				4972DDC42D98F85B00D79419 /* 42. Trapping Rain Water.swift in Sources */,
+				490235B22E437EFE006A2457 /* 3진법 뒤집기.swift in Sources */,
 				497D8CC02DB6866100FC9942 /* LinkedList.swift in Sources */,
 				49F051402E0307A400CE55F9 /* 17142. 연구소3.swift in Sources */,
 				492723CD2DDCB73F004B69AE /* 785. Is Graph Bipartite?.swift in Sources */,
