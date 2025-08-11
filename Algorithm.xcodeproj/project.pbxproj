@@ -27,6 +27,7 @@
 		497D8CC02DB6866100FC9942 /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 497D8CBF2DB6866100FC9942 /* LinkedList.swift */; };
 		498E18BA2DC72A08007066B5 /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498E18B92DC72A08007066B5 /* 70. Climbing Stairs.swift */; };
 		498E18BD2DC734C1007066B5 /* 764. Min Cost Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498E18BC2DC734C1007066B5 /* 764. Min Cost Climbing Stairs.swift */; };
+		49925C2C2E4A19CA00506002 /* 신규 아이디 추천.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49925C2B2E4A19CA00506002 /* 신규 아이디 추천.swift */; };
 		49A402E02DFB1E6900E3BA2E /* 14502. 연구소.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A402DF2DFB1E6900E3BA2E /* 14502. 연구소.swift */; };
 		49A7D0F62D742CD900AD6A0F /* 후보키.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7D0F52D742CD900AD6A0F /* 후보키.swift */; };
 		49A7D0F82D7DD19900AD6A0F /* 60. Permutation Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A7D0F72D7DD19900AD6A0F /* 60. Permutation Sequence.swift */; };
@@ -87,6 +88,7 @@
 		497D8CBF2DB6866100FC9942 /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
 		498E18B92DC72A08007066B5 /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		498E18BC2DC734C1007066B5 /* 764. Min Cost Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "764. Min Cost Climbing Stairs.swift"; sourceTree = "<group>"; };
+		49925C2B2E4A19CA00506002 /* 신규 아이디 추천.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "신규 아이디 추천.swift"; sourceTree = "<group>"; };
 		49A402DF2DFB1E6900E3BA2E /* 14502. 연구소.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14502. 연구소.swift"; sourceTree = "<group>"; };
 		49A7D0F52D742CD900AD6A0F /* 후보키.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "후보키.swift"; sourceTree = "<group>"; };
 		49A7D0F72D7DD19900AD6A0F /* 60. Permutation Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "60. Permutation Sequence.swift"; sourceTree = "<group>"; };
@@ -219,6 +221,7 @@
 				490235C02E44EE71006A2457 /* 이진 변환 반복하기.swift */,
 				49EA2D712E463A6F0038554B /* 문자열 내 p와 y의 개수.swift */,
 				49EA2D732E463C7C0038554B /* 숫자 문자열과 영단어.swift */,
+				49925C2B2E4A19CA00506002 /* 신규 아이디 추천.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -321,6 +324,7 @@
 				497D8CC02DB6866100FC9942 /* LinkedList.swift in Sources */,
 				49F051402E0307A400CE55F9 /* 17142. 연구소3.swift in Sources */,
 				492723CD2DDCB73F004B69AE /* 785. Is Graph Bipartite?.swift in Sources */,
+				49925C2C2E4A19CA00506002 /* 신규 아이디 추천.swift in Sources */,
 				49EA2D742E463C7C0038554B /* 숫자 문자열과 영단어.swift in Sources */,
 				49B41A1E2DE74D480019CCE4 /* 322. Coin Change.swift in Sources */,
 				494B86062D61FA59003EF612 /* main.swift in Sources */,
