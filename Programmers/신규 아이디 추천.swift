@@ -45,10 +45,11 @@ class 신규_아이디_추천 {
         if result.count > 15 {
             let endIndex = result.index(result.startIndex, offsetBy: 15)
             result = String(result[result.startIndex..<endIndex])
+            
+            if result.hasSuffix(".") {
+                result.removeLast()
+            }
         }
-        
-        if result.first == "." { result.removeFirst() }
-        if result.last == "." { result.removeLast() }
         
         if result.count <= 2 {
             while result.count < 3 {
