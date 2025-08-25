@@ -56,6 +56,7 @@
 		49F051422E05B08500CE55F9 /* 13459. 구슬 탈출.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F051412E05B08500CE55F9 /* 13459. 구슬 탈출.swift */; };
 		49F46C102E350BFC00082DCB /* 거리두기 확인하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F46C0F2E350BFC00082DCB /* 거리두기 확인하기.swift */; };
 		49F7477D2D80724F00E90CF9 /* 131. Palindrome Partioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F7477C2D80724F00E90CF9 /* 131. Palindrome Partioning.swift */; };
+		49F9AD922E5C85BE00774915 /* 수식 최대화.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F9AD912E5C85BE00774915 /* 수식 최대화.swift */; };
 		49FC7BED2D6F40F2003A3376 /* 704. Binary Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FC7BEC2D6F40F2003A3376 /* 704. Binary Search.swift */; };
 /* End PBXBuildFile section */
 
@@ -122,6 +123,7 @@
 		49F051412E05B08500CE55F9 /* 13459. 구슬 탈출.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13459. 구슬 탈출.swift"; sourceTree = "<group>"; };
 		49F46C0F2E350BFC00082DCB /* 거리두기 확인하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "거리두기 확인하기.swift"; sourceTree = "<group>"; };
 		49F7477C2D80724F00E90CF9 /* 131. Palindrome Partioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "131. Palindrome Partioning.swift"; sourceTree = "<group>"; };
+		49F9AD912E5C85BE00774915 /* 수식 최대화.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "수식 최대화.swift"; sourceTree = "<group>"; };
 		49FC7BEC2D6F40F2003A3376 /* 704. Binary Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "704. Binary Search.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -237,6 +239,7 @@
 				490605872E54B3E2006A0BA7 /* 모음 사전.swift */,
 				4920AC6B2E560B2D00A00258 /* 모의고사.swift */,
 				49E0D78C2E589BF70096D5AC /* 카펫.swift */,
+				49F9AD912E5C85BE00774915 /* 수식 최대화.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				49FC7BED2D6F40F2003A3376 /* 704. Binary Search.swift in Sources */,
 				49782DBC2E4B591300C7DD47 /* 쿼드압축 후 개수 세기.swift in Sources */,
 				490605882E54B3E2006A0BA7 /* 모음 사전.swift in Sources */,
+				49F9AD922E5C85BE00774915 /* 수식 최대화.swift in Sources */,
 				49F7477D2D80724F00E90CF9 /* 131. Palindrome Partioning.swift in Sources */,
 				49D258D12DEF14FB00F3606E /* 양과늑대.swift in Sources */,
 				493900972D887747004F78D7 /* 51. N-Queens.swift in Sources */,

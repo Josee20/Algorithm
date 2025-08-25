@@ -1,13 +1,13 @@
 //
-//  main.swift
+//  수식 최대화.swift
 //  Algorithm
 //
-//  Created by 이동기 on 2025/02/16.
+//  Created by 이동기 on 8/25/25.
 //
 
 import Foundation
 
-class Main {
+class 수식_최대화 {
     func solution(_ expression:String) -> Int64 {
         var results: [Int] = []
         var operands: Set<String> = []
@@ -94,7 +94,3 @@ class Main {
         return Int64(results.max()!)
     }
 }
-
-let main = Main()
-print(main.solution("100-200*300-500+20"))
-print(main.solution("50*6-3*2"))
