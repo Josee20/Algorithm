@@ -57,6 +57,7 @@
 		49F46C102E350BFC00082DCB /* 거리두기 확인하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F46C0F2E350BFC00082DCB /* 거리두기 확인하기.swift */; };
 		49F7477D2D80724F00E90CF9 /* 131. Palindrome Partioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F7477C2D80724F00E90CF9 /* 131. Palindrome Partioning.swift */; };
 		49F9AD922E5C85BE00774915 /* 수식 최대화.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F9AD912E5C85BE00774915 /* 수식 최대화.swift */; };
+		49F9AD942E5DE4E100774915 /* 소수 찾기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F9AD932E5DE4E100774915 /* 소수 찾기.swift */; };
 		49FC7BED2D6F40F2003A3376 /* 704. Binary Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FC7BEC2D6F40F2003A3376 /* 704. Binary Search.swift */; };
 /* End PBXBuildFile section */
 
@@ -124,6 +125,7 @@
 		49F46C0F2E350BFC00082DCB /* 거리두기 확인하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "거리두기 확인하기.swift"; sourceTree = "<group>"; };
 		49F7477C2D80724F00E90CF9 /* 131. Palindrome Partioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "131. Palindrome Partioning.swift"; sourceTree = "<group>"; };
 		49F9AD912E5C85BE00774915 /* 수식 최대화.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "수식 최대화.swift"; sourceTree = "<group>"; };
+		49F9AD932E5DE4E100774915 /* 소수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "소수 찾기.swift"; sourceTree = "<group>"; };
 		49FC7BEC2D6F40F2003A3376 /* 704. Binary Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "704. Binary Search.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -240,6 +242,7 @@
 				4920AC6B2E560B2D00A00258 /* 모의고사.swift */,
 				49E0D78C2E589BF70096D5AC /* 카펫.swift */,
 				49F9AD912E5C85BE00774915 /* 수식 최대화.swift */,
+				49F9AD932E5DE4E100774915 /* 소수 찾기.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -307,6 +310,7 @@
 				4972DDC22D965D7500D79419 /* 두 큐 합 같게 만들기.swift in Sources */,
 				49E0D78D2E589BF70096D5AC /* 카펫.swift in Sources */,
 				49A402E02DFB1E6900E3BA2E /* 14502. 연구소.swift in Sources */,
+				49F9AD942E5DE4E100774915 /* 소수 찾기.swift in Sources */,
 				498E18BA2DC72A08007066B5 /* 70. Climbing Stairs.swift in Sources */,
 				490E9B052DCE62FA000DED85 /* 12865. 평범한 배낭.swift in Sources */,
 				49ECA0422D902E32001CADFA /* 자물쇠와 열쇠.swift in Sources */,
