@@ -41,6 +41,7 @@
 		49B41A1E2DE74D480019CCE4 /* 322. Coin Change.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B41A1D2DE74D480019CCE4 /* 322. Coin Change.swift */; };
 		49C3A9232E42312800A1E697 /* 문자열 압축.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C3A9222E42312800A1E697 /* 문자열 압축.swift */; };
 		49C7C25B2E671F2200BB9281 /* 불량 사용자.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C7C25A2E671F2200BB9281 /* 불량 사용자.swift */; };
+		49C7C25D2E68836500BB9281 /* H-Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C7C25C2E68836500BB9281 /* H-Index.swift */; };
 		49D258D12DEF14FB00F3606E /* 양과늑대.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D258D02DEF14FB00F3606E /* 양과늑대.swift */; };
 		49D258D32DF07C7200F3606E /* 32. Longest Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D258D22DF07C7200F3606E /* 32. Longest Valid Parentheses.swift */; };
 		49D381E82D919A6A003D6A5F /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */; };
@@ -110,6 +111,7 @@
 		49B41A1D2DE74D480019CCE4 /* 322. Coin Change.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "322. Coin Change.swift"; sourceTree = "<group>"; };
 		49C3A9222E42312800A1E697 /* 문자열 압축.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 압축.swift"; sourceTree = "<group>"; };
 		49C7C25A2E671F2200BB9281 /* 불량 사용자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "불량 사용자.swift"; sourceTree = "<group>"; };
+		49C7C25C2E68836500BB9281 /* H-Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "H-Index.swift"; sourceTree = "<group>"; };
 		49D258D02DEF14FB00F3606E /* 양과늑대.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "양과늑대.swift"; sourceTree = "<group>"; };
 		49D258D22DF07C7200F3606E /* 32. Longest Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "32. Longest Valid Parentheses.swift"; sourceTree = "<group>"; };
 		49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
@@ -246,6 +248,7 @@
 				49F9AD912E5C85BE00774915 /* 수식 최대화.swift */,
 				49F9AD932E5DE4E100774915 /* 소수 찾기.swift */,
 				49C7C25A2E671F2200BB9281 /* 불량 사용자.swift */,
+				49C7C25C2E68836500BB9281 /* H-Index.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -317,6 +320,7 @@
 				498E18BA2DC72A08007066B5 /* 70. Climbing Stairs.swift in Sources */,
 				490E9B052DCE62FA000DED85 /* 12865. 평범한 배낭.swift in Sources */,
 				49ECA0422D902E32001CADFA /* 자물쇠와 열쇠.swift in Sources */,
+				49C7C25D2E68836500BB9281 /* H-Index.swift in Sources */,
 				490235C12E44EE71006A2457 /* 이진 변환 반복하기.swift in Sources */,
 				492F03F22E098E8700AAE803 /* 타겟 넘버.swift in Sources */,
 				495032DE2E3B979C008DE5E6 /* 이상한 문자 만들기.swift in Sources */,
