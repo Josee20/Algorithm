@@ -42,6 +42,9 @@
 		49C3A9232E42312800A1E697 /* 문자열 압축.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C3A9222E42312800A1E697 /* 문자열 압축.swift */; };
 		49C7C25B2E671F2200BB9281 /* 불량 사용자.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C7C25A2E671F2200BB9281 /* 불량 사용자.swift */; };
 		49C7C25D2E68836500BB9281 /* H-Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C7C25C2E68836500BB9281 /* H-Index.swift */; };
+		49C7C29D2E6C0BBD00BB9281 /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C7C29C2E6C0BBD00BB9281 /* Heap.swift */; };
+		49C7C29F2E6C373100BB9281 /* 가장 큰 수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C7C29E2E6C373100BB9281 /* 가장 큰 수.swift */; };
+		49C7C2A12E6C548100BB9281 /* PriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49C7C2A02E6C548100BB9281 /* PriorityQueue.swift */; };
 		49D258D12DEF14FB00F3606E /* 양과늑대.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D258D02DEF14FB00F3606E /* 양과늑대.swift */; };
 		49D258D32DF07C7200F3606E /* 32. Longest Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D258D22DF07C7200F3606E /* 32. Longest Valid Parentheses.swift */; };
 		49D381E82D919A6A003D6A5F /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */; };
@@ -112,6 +115,9 @@
 		49C3A9222E42312800A1E697 /* 문자열 압축.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 압축.swift"; sourceTree = "<group>"; };
 		49C7C25A2E671F2200BB9281 /* 불량 사용자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "불량 사용자.swift"; sourceTree = "<group>"; };
 		49C7C25C2E68836500BB9281 /* H-Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "H-Index.swift"; sourceTree = "<group>"; };
+		49C7C29C2E6C0BBD00BB9281 /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
+		49C7C29E2E6C373100BB9281 /* 가장 큰 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가장 큰 수.swift"; sourceTree = "<group>"; };
+		49C7C2A02E6C548100BB9281 /* PriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriorityQueue.swift; sourceTree = "<group>"; };
 		49D258D02DEF14FB00F3606E /* 양과늑대.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "양과늑대.swift"; sourceTree = "<group>"; };
 		49D258D22DF07C7200F3606E /* 32. Longest Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "32. Longest Valid Parentheses.swift"; sourceTree = "<group>"; };
 		49D381E72D919A6A003D6A5F /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
@@ -187,6 +193,8 @@
 			isa = PBXGroup;
 			children = (
 				497D8CBF2DB6866100FC9942 /* LinkedList.swift */,
+				49C7C29C2E6C0BBD00BB9281 /* Heap.swift */,
+				49C7C2A02E6C548100BB9281 /* PriorityQueue.swift */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
@@ -249,6 +257,7 @@
 				49F9AD932E5DE4E100774915 /* 소수 찾기.swift */,
 				49C7C25A2E671F2200BB9281 /* 불량 사용자.swift */,
 				49C7C25C2E68836500BB9281 /* H-Index.swift */,
+				49C7C29E2E6C373100BB9281 /* 가장 큰 수.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -332,11 +341,14 @@
 				490E9B012DCCEC3F000DED85 /* 62. Unique Paths.swift in Sources */,
 				498E18BD2DC734C1007066B5 /* 764. Min Cost Climbing Stairs.swift in Sources */,
 				49D381E82D919A6A003D6A5F /* 20. Valid Parentheses.swift in Sources */,
+				49C7C29D2E6C0BBD00BB9281 /* Heap.swift in Sources */,
 				493900952D86F16D004F78D7 /* 37. Sudoku Solver.swift in Sources */,
+				49C7C2A12E6C548100BB9281 /* PriorityQueue.swift in Sources */,
 				49468A1A2E30FCCA000B11A7 /* 삼각 달팽이.swift in Sources */,
 				4920AC6C2E560B2D00A00258 /* 모의고사.swift in Sources */,
 				49FC7BED2D6F40F2003A3376 /* 704. Binary Search.swift in Sources */,
 				49782DBC2E4B591300C7DD47 /* 쿼드압축 후 개수 세기.swift in Sources */,
+				49C7C29F2E6C373100BB9281 /* 가장 큰 수.swift in Sources */,
 				490605882E54B3E2006A0BA7 /* 모음 사전.swift in Sources */,
 				49F9AD922E5C85BE00774915 /* 수식 최대화.swift in Sources */,
 				49F7477D2D80724F00E90CF9 /* 131. Palindrome Partioning.swift in Sources */,
